@@ -35,11 +35,11 @@ This project demonstrates how to implement JWT (JSON Web Token) authentication i
 ### Clone the repository
 
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/LaKhWaN/jwt-auth-login-register-springboot.git
 ```
 
 ```
-cd your-repo-name
+cd jwt-auth-login-register-springboot
 ```
 
 ### Configure the database
